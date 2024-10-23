@@ -7,6 +7,6 @@ public class Greeting {
         System.out.print("Enter your name: ");
         String name = scanner.nextLine();
 
-        System.out.println("Hello, " + name + "! Welcome to Java.");
+        System.out.println("Hello, " + name + "! Welcome to Java class.");
     }
 }
